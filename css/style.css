@@ -37,6 +37,7 @@ p{
 a{
 	color:#e57371;
 	text-decoration:underline;
+	outline:none;
 }
 .header, .content, .menu_nav, .fbg, form, ol, ol li, ul, .content .mainbar, .content .sidebar {
 	margin:0;
@@ -458,10 +459,6 @@ ol li .send {
 	padding:0;
 	border:none;
 	float:left;
-}
-
-a {
-	outline:none;
 }
 
 #food_info{
