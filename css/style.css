@@ -80,3 +80,70 @@ h1 small {
 	text-transform:none;
 	color:#cececc;
 }
+.slider {
+	margin:0;
+	padding:0 10px 20px;
+	background:no-repeat center top;
+}
+.rss {
+	padding:18px 20px 0 0;
+	float:right;
+	width:auto;
+}
+.rss p {
+	margin:0;
+	padding:0;
+	float:right;
+	width:auto;
+	color:#fff;
+	font-size:13px;
+	line-height:1.5em;
+	font-weight:bold;
+}
+.rss a {
+	color:#fff;
+	text-decoration:none;
+}
+.rss a:hover {
+	text-decoration:underline;
+}
+.rss img {
+	margin:-3px 0 -3px 6px;
+	border:none;
+}
+.menu_nav {
+	margin:0;
+	padding:56px 0 0;
+	height:48px;
+	float:right;
+}
+.menu_nav ul {
+	list-style:none;
+	padding:0 0 0 2px;
+	height:48px;
+	float:left;
+	border:1px solid #ececec;
+}
+.menu_nav ul li {
+	margin:0;
+	padding:0 2px 0 0;
+	float:left;
+	background:no-repeat right center;
+}
+.menu_nav ul li a {
+	display:block;
+	margin:0;
+	padding:18px 20px;
+	font-size:15px;
+	line-height:20px;
+	font-weight:normal;
+	color:#929292;
+	text-decoration:none;
+	text-transform:none;
+	text-align:center;
+}
+.menu_nav ul li a:hover {
+	text-decoration:none;
+	color:white;
+	background-color:black;
+}
