@@ -198,12 +198,11 @@ h1 small {
 }
 
 ul.info_menu, li strong{
-	margin-left:0;
 	font-size:5px;
 	
 }
 
-ul.sb_menu, ul.ex_menu {
+ul.sb_menu, ul.ex_menu, ul.info_menu{
 	margin-left:10px;
 	padding:0;
 	list-style:none;
