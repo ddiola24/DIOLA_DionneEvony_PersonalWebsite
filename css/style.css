@@ -56,3 +56,27 @@ a {
 	width:auto;
 	height:172px;
 }
+h1 {
+	margin:0;
+	padding:54px 0 0 20px;
+	font-size:40px;
+	font-weight:normal;
+	line-height:1.2em;
+	text-transform:none;
+	letter-spacing:2px;
+}
+h1 a, h1 a:hover {
+	color:rgb(181,230,29);
+	text-decoration:none;
+}
+h1 span {
+	color:rgb(239,228,176);
+}
+h1 small {
+	display:block;
+	font-size:13px;
+	line-height:1.2em;
+	letter-spacing:normal;
+	text-transform:none;
+	color:#cececc;
+}
