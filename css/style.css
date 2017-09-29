@@ -30,11 +30,11 @@ h2 {
 	color:#494848;
 	text-transform:none;
 }
-p {
+p{
 	margin:8px 0;
 	padding:0 0 8px 0;
 }
-a {
+a{
 	color:#e57371;
 	text-decoration:underline;
 }
@@ -42,8 +42,7 @@ a {
 	margin:0;
 	padding:0;
 }
-.header {
-}
+
 .header_resize {
 	margin:0 auto;
 	padding:0;
