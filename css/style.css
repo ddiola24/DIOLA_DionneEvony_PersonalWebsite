@@ -147,5 +147,54 @@ h1 small {
 	color:white;
 	background-color:black;
 }
+.content {
+	padding:0;
+}
+.content_resize {
+	margin:0 auto;
+	padding:24px 0 40px;
+	width:960px;
+}
+.content .mainbar {
+	margin:0;
+	padding:0;
+	float:right;
+	width:680px;
+}
+.content .mainbar h2 {
+	margin-bottom:0;
+}
+.content .mainbar div.img {
+	padding:12px 0;
+	float:left;
+}
+.content .mainbar img {
+}
+.content .mainbar img.fl {
+	margin:0;
+	border:1px solid #e6e6e6;
+}
+.content .mainbar .article {
+	margin:0 0 8px;
+	padding:0 20px 16px;
+	background:no-repeat 20px top;
+}
+.content .mainbar .post_content {
+	float:right;
+	width:460px;
+}
+.content .mainbar .post_content strong {
+	color:#585757;
+}
+.content .sidebar {
+	padding:0;
+	float:left;
+	width:260px;
+}
+.content .sidebar .gadget {
+	margin:0 0 12px;
+	padding:0 20px 24px;
+	background:no-repeat 20px top;
+}
 
 
