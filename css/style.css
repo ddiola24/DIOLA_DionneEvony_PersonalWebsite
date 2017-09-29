@@ -1,0 +1,23 @@
+body {
+	margin:0;
+	padding:0;
+	width:100%;
+	color:#585757;
+	font:normal 12px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
+	background:#fff url(../images/header_bg.jpg) repeat-x center 172px;
+}
+html, .main {
+	padding:0;
+	margin:0;
+}
+.main {
+	background:url(../images/hbg_bg.jpg) no-repeat center 162px;
+}
+.clr {
+	clear:both;
+	padding:0;
+	margin:0;
+	width:100%;
+	font-size:0;
+	line-height:0;
+}
