@@ -204,7 +204,7 @@ ul.info_menu, li strong{
 
 ul.info_menu, li strong p{
 	font-size:16px;
-	font-color:blacks;
+	color:black;
 }
 
 ul.sb_menu, ul.ex_menu, ul.info_menu{
