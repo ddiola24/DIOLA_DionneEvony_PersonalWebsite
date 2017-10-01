@@ -144,7 +144,7 @@ h1 small {
 }
 .menu_nav ul li a:hover {
 	text-decoration:none;
-	color:black;
+	color:white;
 	background-color:rgb(239,228,176);
 }
 .content {
@@ -298,7 +298,7 @@ p.infopost span.date {
 
 .content p.pages a:hover {
 	color:#fff;
-	background:black;
+	background:rgb(239,228,176);
 	border:1px solid gray;
 	
 }
